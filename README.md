@@ -95,3 +95,4 @@ public class CarrinhoCompras {
 		metodos.validarCompra(0);
 
 	}
+	
